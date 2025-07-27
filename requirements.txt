@@ -1,0 +1,14 @@
+numpy==1.19.5
+torchvision
+torchcontrib
+rfconv
+tqdm
+torch
+Pillow
+pillow
+PyYAML
+streamlit
+opencv-python
+scikit-image
+scikit-learn
+openai
